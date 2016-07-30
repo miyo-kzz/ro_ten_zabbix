@@ -1,11 +1,11 @@
-# ro_ten_zabbix - RO公式ツール 露店情報監視テンプレート for Zabbix
+# ro_ten_zabbix - RO公式ツール jRO露店情報監視テンプレート for Zabbix
 RO公式ツールの露店情報をZabbixで監視するテンプレートです。  
 [README in English](https://github.com/miyo-kzz/ro_ten_zabbix/blob/master/README.md)
 
 ## 動作環境
-Zabbix 3.0, 2.2  
-Python 2.7  
-CentOS 7.2
+* Zabbix 3.0, 2.2
+* Python 2.7
+* CentOS 7.2
 
 ## 導入方法
 1. スクリプト scripts/ro_ten_zabbix.py をZabbixの外部スクリプト用ディレクトリに保存する。
